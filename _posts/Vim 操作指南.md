@@ -1,7 +1,7 @@
 ---
-title: TITLE
+title: Vim 操作指南
 date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+categories: TOP_CATEGORIE, SUB_CATEGORIE
 tags: mit-missing-semester     # TAG 名称应始终小写
 ---
 
