@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Arthur Ma 的博客 # the main title
 
-tagline: "By Nature man is not what he ought to be; only through a transforming process does he arrive at truth." # it will display as the subtitle
+tagline: To create. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Personal space for technical writing.
