@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Arthur Ma 的博客 # the main title
 
-tagline: 安得广厦千万间 # it will display as the subtitle
+tagline: "By Nature man is not what he ought to be; only through a transforming process does he arrive at truth." # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Personal space for technical writing.
@@ -98,11 +98,11 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/assets/images/image1.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: "/assets/images/icon.png" # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
