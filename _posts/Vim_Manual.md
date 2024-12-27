@@ -1,7 +1,7 @@
 ---
 title: Vim 操作指南
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: TOP_CATEGORIE, SUB_CATEGORIE
+date: 2024-12-27 22:40
+categories: 编程实践
 tags: mit-missing-semester     # TAG 名称应始终小写
 ---
 
