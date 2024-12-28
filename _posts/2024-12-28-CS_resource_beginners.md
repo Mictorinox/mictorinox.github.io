@@ -18,8 +18,8 @@ tags: tutorials # TAG 名称应始终小写
 
 ### 统计学自学指南
 
-和CS自学指南类似，但是统计学版本。[统计学自学指南](https://xuankaiwang.github.io/)
+[统计学自学指南](https://xuankaiwang.github.io/)和CS自学指南类似，但是统计学版本。
 
 ### Github TeachYourselfCS
 
-TeachYourselfCS 是一个 GitHub 仓库，其中提供了一套包含 9 门科目的 CS 自学路径，来自 GitHub。 [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+TeachYourselfCS 是一个 GitHub 仓库，其中提供了一套包含 9 门科目的 CS 自学路径。GitHub贡献者izackwu制作了中文翻译版[izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
